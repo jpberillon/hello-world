@@ -6,4 +6,6 @@ branch test
 
 ---
 ## Adding some instruction to the project
-this **cool** 
+this **cool**
+
+## Again some update from an-other-branch
